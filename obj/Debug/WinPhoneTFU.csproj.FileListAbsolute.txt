@@ -1,0 +1,15 @@
+C:\Users\stjo\Documents\Altran\Windows phone utveckling\WinPhoneTFU\WinPhoneTFU\Bin\Debug\ApplicationIcon.png
+C:\Users\stjo\Documents\Altran\Windows phone utveckling\WinPhoneTFU\WinPhoneTFU\Bin\Debug\Background.png
+C:\Users\stjo\Documents\Altran\Windows phone utveckling\WinPhoneTFU\WinPhoneTFU\Bin\Debug\WinPhoneTFU.dll
+C:\Users\stjo\Documents\Altran\Windows phone utveckling\WinPhoneTFU\WinPhoneTFU\Bin\Debug\WinPhoneTFU.pdb
+C:\Users\stjo\Documents\Altran\Windows phone utveckling\WinPhoneTFU\WinPhoneTFU\Bin\Debug\AppManifest.xaml
+C:\Users\stjo\Documents\Altran\Windows phone utveckling\WinPhoneTFU\WinPhoneTFU\Bin\Debug\WinPhoneTFU.xap
+C:\Users\stjo\Documents\Altran\Windows phone utveckling\WinPhoneTFU\WinPhoneTFU\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\stjo\Documents\Altran\Windows phone utveckling\WinPhoneTFU\WinPhoneTFU\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\stjo\Documents\Altran\Windows phone utveckling\WinPhoneTFU\WinPhoneTFU\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\stjo\Documents\Altran\Windows phone utveckling\WinPhoneTFU\WinPhoneTFU\obj\Debug\App.g.i.cs
+C:\Users\stjo\Documents\Altran\Windows phone utveckling\WinPhoneTFU\WinPhoneTFU\obj\Debug\MainPage.g.i.cs
+C:\Users\stjo\Documents\Altran\Windows phone utveckling\WinPhoneTFU\WinPhoneTFU\obj\Debug\WinPhoneTFU.g.resources
+C:\Users\stjo\Documents\Altran\Windows phone utveckling\WinPhoneTFU\WinPhoneTFU\obj\Debug\WinPhoneTFU.dll
+C:\Users\stjo\Documents\Altran\Windows phone utveckling\WinPhoneTFU\WinPhoneTFU\obj\Debug\WinPhoneTFU.pdb
+C:\Users\stjo\Documents\Altran\Windows phone utveckling\WinPhoneTFU\WinPhoneTFU\obj\Debug\XapCacheFile.xml
